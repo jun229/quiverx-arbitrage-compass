@@ -104,7 +104,7 @@ export const LiquidityAnalysis = () => {
             <CardHeader>
               <CardTitle className="text-lg">Order Book Depth Analysis</CardTitle>
               <p className="text-sm text-gray-600">
-                Example: BTC > $100k prediction across markets
+                Example: BTC &gt; $100k prediction across markets
               </p>
             </CardHeader>
             <CardContent>
